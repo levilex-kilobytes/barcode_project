@@ -5,14 +5,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -81,4 +79,4 @@ In future projects I want to focus on:
 
 ## Acknowledgments
 
-Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing this challenge as a great starting point for beginners. Also a big thanks to Claude (Anthropic) for AI-assisted guidance throughout the build process.
+Thanks to [Frontend Mentor](https://www.frontendmentor.io) for providing this challenge as a great starting point for beginners.
